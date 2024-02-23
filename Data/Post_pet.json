@@ -1,0 +1,7 @@
+{
+    "id": 0,
+    "category": {"name": "Snake"},
+    "name": "snake",
+    "tags": [{"name": "snake"}],
+    "status": "unavailable"
+}

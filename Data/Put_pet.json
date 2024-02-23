@@ -1,0 +1,8 @@
+{
+    "id": 0,
+    "category": {"id": 0, "name": "string"},
+    "name": "parrot",
+    "photoUrls": ["string"],
+    "tags": [{"id": 0, "name": "parrot"}],
+    "status": "unavailable"
+}
